@@ -10,7 +10,7 @@
 
 <br/>
 
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=leodev-ssh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&rank_icon=github" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=leodev-ssh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&rank_icon=github&hide=contribs" />
 
 **`$ whoami`**
 
@@ -31,16 +31,17 @@ status:   Buildando. Sempre.
 
 <div align="center">
 
-**Back-end & Runtime**
+**Linguagens**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=express&logoColor=black)
-
-**Front-end**
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Back-end & Runtime**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-ffffff?style=flat-square&logo=express&logoColor=black)
 
 **Banco de Dados**
 
@@ -78,19 +79,6 @@ status:   Buildando. Sempre.
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/leodev-ssh/REPO_3">
-  <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leodev-ssh&repo=REPO_3&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-</a>
-<a href="https://github.com/leodev-ssh/REPO_4">
-  <img height="130" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leodev-ssh&repo=REPO_4&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-</a>
-
-</div>
-
 ---
 
 ## 📈 Estatísticas & Contribuições
@@ -98,10 +86,10 @@ status:   Buildando. Sempre.
 <div align="center">
 
 <a href="https://github.com/leodev-ssh">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=leodev-ssh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=leodev-ssh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&rank_icon=github&hide=contribs" />
 </a>
 <a href="https://github.com/leodev-ssh">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodev-ssh&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=320" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodev-ssh&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&card_width=320" />
 </a>
 
 </div>
